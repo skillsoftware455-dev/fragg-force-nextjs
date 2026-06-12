@@ -1,0 +1,6 @@
+{
+  "name": "Fragg Force",
+  "description": "An exquisite luxury perfume e-commerce destination featuring premium fragrances, interactive notes, customer dashboards, and elegant admin insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
